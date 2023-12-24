@@ -1,6 +1,7 @@
 {
   "assets": [
     {
+      "id": 1,
       "AssetID": "V001",
       "AssetName": "Delivery Van",
       "Category": "Vehicle",
@@ -13,6 +14,7 @@
       "VendorName": "Ford Motors"
     },
     {
+      "id": 2,
       "AssetID": "V002",
       "AssetName": "Forklift Truck",
       "Category": "Vehicle",
@@ -25,6 +27,7 @@
       "VendorName": "Toyota Industries"
     },
     {
+      "id": 3,
       "AssetID": "T001",
       "AssetName": "Heavy-Duty Tire",
       "Category": "Tire",
@@ -37,6 +40,7 @@
       "VendorName": "Bridgestone Tires"
     },
     {
+      "id": 4,
       "AssetID": "T002",
       "AssetName": "All-Season Tire Set",
       "Category": "Tire",
@@ -49,6 +53,7 @@
       "VendorName": "Michelin Tires"
     },
     {
+      "id": 5,
       "AssetID": "V003",
       "AssetName": "SUV",
       "Category": "Vehicle",
@@ -61,6 +66,7 @@
       "VendorName": "Honda Motors"
     },
     {
+      "id": 6,
       "AssetID": "V004",
       "AssetName": "Truck",
       "Category": "Vehicle",
@@ -73,6 +79,7 @@
       "VendorName": "Isuzu Motors"
     },
     {
+      "id": 7,
       "AssetID": "T003",
       "AssetName": "Performance Tire",
       "Category": "Tire",
@@ -85,6 +92,7 @@
       "VendorName": "Goodyear Tires"
     },
     {
+      "id": 8,
       "AssetID": "T004",
       "AssetName": "Winter Tire Set",
       "Category": "Tire",
